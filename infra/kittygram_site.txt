@@ -1,5 +1,5 @@
 IP:84.201.161.230;
 name_taski:https://myprojectso.sytes.net;
 name_kittygram:https://secondproject.hopto.org;
-login:yc-user;
-password:Firafa1488@!;
+login:admin;
+password:Firafa1337@!;
